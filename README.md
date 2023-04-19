@@ -1,7 +1,6 @@
-# compose
+# A-text-input-validation-and-android-demonstration
 
 
-google developer link-https://g.dev/Balajisankaranarayanan05
+google developer link-https://g.dev/Balajisankaranaray
 
-
-video demo link-
+Project video link-
